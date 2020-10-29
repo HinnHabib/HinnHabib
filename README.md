@@ -4,6 +4,8 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HinnHabib)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HinnHabib&layout=compact)](https://github.com/HinnHabib/github-readme-stats)
+
 
 
 <!--
