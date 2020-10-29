@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=HinnHabib)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HinnHabib)
+
+
+
 <!--
 **HinnHabib/HinnHabib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
